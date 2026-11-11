@@ -1,2 +1,2 @@
 # task5
-Jupyter Notebook+PDF report of finding
+Jupyter Notebook+PDF report of findings
